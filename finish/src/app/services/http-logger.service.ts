@@ -1,13 +1,13 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-// import { ILogger } from '../models/Logger';
+import { ILogger } from '../models/Logger';
 import { LogLevel, LogEntry } from '../models/LogEntry';
 
 @Injectable({
   providedIn: 'root',
 })
-export class HttpLogger {
+export class HttpLogger implements ILogger {
 
   constructor(private httpClient: HttpClient) { }
 

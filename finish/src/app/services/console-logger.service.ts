@@ -1,12 +1,12 @@
 import { Injectable } from '@angular/core';
 
-// import { ILogger } from '../models/Logger';
+import { ILogger } from '../models/Logger';
 import { LogLevel, LogEntry } from '../models/LogEntry';
 
 @Injectable({
   providedIn: 'root',
 })
-export class ConsoleLogger {
+export class ConsoleLogger implements ILogger {
 
   private log(logEntry: LogEntry) {
     console.log(logEntry.toString());
