@@ -2,6 +2,8 @@
 
 ### Using an Injection Token to Inject Services coded to an Interface
 
+[![YouTube Video](https://img.youtube.com/vi/VFHApp-86WA/0.jpg)](https://www.youtube.com/watch?v=VFHApp-86WA)
+
 This video short demonstation represents some of the content covered in the following Angular courses taught by [Accelebrate](https://www.accelebrate.com/):
 
 - [Introduction to Angular](https://www.accelebrate.com/training/angular-introduction)
@@ -14,7 +16,7 @@ Contact [Accelebrate](https://www.accelebrate.com/contact) today for all of your
 
 > All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
 
-The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube Video](#). If you prefer to review only the completed files then browse the `finish` folder. 
+The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube Video](https://www.youtube.com/watch?v=VFHApp-86WA). If you prefer to review only the completed files then browse the `finish` folder. 
 
 **Note:** Before watching the video and coding along you will need to setup your local environment. Within the instructions the word `terminal` refers to the Windows Command Prompt program on Windows and the Terminal program on macOS
 
@@ -68,7 +70,7 @@ npm start
 
 The development web server will be accessible at [http://localhost:4200](http://localhost:4200)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to inject services coded to an interface with an injection token
+**Step 6.** Start watching the [YouTube Video](https://www.youtube.com/watch?v=VFHApp-86WA) and code along to learn more about how to inject services coded to an interface with an injection token
 
 
 
